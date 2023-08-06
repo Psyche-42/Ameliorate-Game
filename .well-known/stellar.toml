@@ -11,7 +11,7 @@ ACCOUNTS = [
 
 [DOCUMENTATION]
 ORG_NAME = "Ameliorate Game"
-ORG_URL = "https://Aameliorate.Game.Blog"
+ORG_URL = "https://AmeliorateGame.com"
 ORG_LOGO = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
 ORG_DESCRIPTION = "An experimental community-driven web3.0-enabled roleplaying story-generating game."
 ORG_TWITTER = "@AmeliorateGame"
