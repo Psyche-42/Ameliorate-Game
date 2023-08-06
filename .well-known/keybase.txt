@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ameliorategame
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ameliorategame.com
+  * I am ameliorategame (https://keybase.io/ameliorategame) on keybase.
+  * I have a public key ASCB5kbcCI_oiOQYh0Yf5aSPFv02vKhM6B0aQm_p1Vv-kQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012081e646dc088fe888e41887461fe5a48f16fd36bca84ce81d1a426fe9d55bfe910a",
+      "host": "keybase.io",
+      "kid": "012081e646dc088fe888e41887461fe5a48f16fd36bca84ce81d1a426fe9d55bfe910a",
+      "uid": "8b71945281b124c1c0b4fcab07e30119",
+      "username": "ameliorategame"
+    },
+    "merkle_root": {
+      "ctime": 1690953369,
+      "hash": "95cfe161c44034075432d9573a5101aa447fb6731bd82805f35edf10914259f99903bd84330ab22fd3259b7e5c84503a4ebc27e196c7b50e5d0c3c5bfbf5f900",
+      "hash_meta": "4f78881d232e53e63d0873496dedf6e142031692d16c537eb8c747b8fab71500",
+      "seqno": 24759059
+    },
+    "service": {
+      "entropy": "gi1IVHsIOjxhW3/gwPy/Ygin",
+      "hostname": "ameliorate.42web.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.1"
+  },
+  "ctime": 1690953402,
+  "expire_in": 504576000,
+  "prev": "6c09a9116d1b14f56b48905284b8b4269646d276baf20a0be3b2293cdc1c24fe",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggeZG3AiP6IjkGIdGH+Wkjxb9NryoTOgdGkJv6dVb/pEKp3BheWxvYWTESpcCCcQgbAmpEW0bFPVrSJBShLi0JpZG0na68goL47IpPNwcJP7EIBVVLXkMpxFDFyZuKUi0+n6BGBXf+Q+cvj13TR+1wx8jAgHCo3NpZ8RA8refR/D7KjPF/seIPIalHbZTJlxGHdQnKqqvC3k8J2WGcR362cqxstGs46vwbRPoiTdTCUsOJ804yCrXuqXxD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKlyW22CA7ko+YWiUP4SIlrk6z3BbBVGpdyX9SvwNqSFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ameliorategame
+
+==================================================================

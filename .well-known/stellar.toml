@@ -1,0 +1,101 @@
+# ----- Ameliorate Token <AmeliorateGame.com> -----
+# ----- Part of the Ameliorate Game <Ameliorate.Game.Blog> -----
+
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+VERSION = "2.0.0"
+SIGNING_KEY = "GDU2P2VOKVXRFEPGSGQE5X4B3IO526TOL3ZL7JTMACH5X2SFGDQFEWIQ"
+ACCOUNTS = [
+    "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G",
+    "GDU2P2VOKVXRFEPGSGQE5X4B3IO526TOL3ZL7JTMACH5X2SFGDQFEWIQ",
+]
+
+[DOCUMENTATION]
+ORG_NAME = "Ameliorate Game"
+ORG_URL = "https://Aameliorate.Game.Blog"
+ORG_LOGO = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
+ORG_DESCRIPTION = "An experimental community-driven web3.0-enabled roleplaying story-generating game."
+ORG_TWITTER = "@AmeliorateGame"
+ORG_GITHUB  =  "Psylocybin42"
+ORG_KEYBASE = "ameliorategame"
+ORG_OFFICIAL_EMAIL = "AmeliorateGame@gmail.com"
+DOMAIN="AmeliorateGame.com"
+
+[[PRINCIPALS]]
+name = "Psylocybin42"
+email = "Psylocybin42@gmail.com"
+keybase = "Psylocybin42"
+twitter = "@Psylocybin42"
+github = "Psylocybin42"
+
+
+[[CURRENCIES]]
+code = "AMLT"
+issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
+display_decimals = 2
+status = "live"
+is_asset_anchored = false
+name = "Ameliorate Token"
+desc = "An experimental community-driven web3.0-enabled roleplaying story-generating game."
+conditions = "There will only be 42,000,000,000 Ameliorate Tokens in existence."
+image = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
+fixed_number = 42000000000
+
+[[CURRENCIES]]
+code = "Ameliorate"
+issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
+display_decimals = 2
+status = "live"
+is_asset_anchored = false
+name = "Ameliorate Token"
+desc = "An experimental community-driven web3.0-enabled roleplaying story-generating game."
+conditions = "There will only be 42,000,000 Ameliorate Tokens in existence."
+image = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
+fixed_number = 42000000
+
+[[CURRENCIES]]
+code = "PlatinumCoin"
+issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
+display_decimals = 2
+status = "live"
+is_asset_anchored = false
+name = "Ameliorate Platinum Coins"
+desc = "An experimental community-driven web3.0-enabled roleplaying story-generating game."
+conditions = "There will only be 1,000,000 Ameliorate Platinum Coins in existence."
+image = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
+fixed_number = 1000000
+
+[[CURRENCIES]]
+code = "GoldCoin"
+issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
+display_decimals = 2
+status = "live"
+is_asset_anchored = false
+name = "Ameliorate Gold Coins"
+desc = "An experimental community-driven web3.0-enabled roleplaying story-generating game."
+conditions = "There will only be 100,000,000 Ameliorate Gold Coins in existence."
+image = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
+fixed_number = 100000000
+
+[[CURRENCIES]]
+code = "SilverCoin"
+issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
+display_decimals = 2
+status = "live"
+is_asset_anchored = false
+name = "Ameliorate Silver Coins"
+desc = "An experimental community-driven web3.0-enabled roleplaying story-generating game."
+conditions = "There will only be 10,000,000,000 Ameliorate Silver Coins in existence."
+image = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
+fixed_number = 10000000000
+
+[[CURRENCIES]]
+code = "CopperCoin"
+issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
+display_decimals = 2
+status = "live"
+is_asset_anchored = false
+name = "Ameliorate Copper Coins"
+desc = "An experimental community-driven web3.0-enabled roleplaying story-generating game."
+conditions = "There will only be 100,000,000,000 Ameliorate Copper Coins in existence."
+image = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
+fixed_number = 100000000000
