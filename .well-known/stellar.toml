@@ -18,7 +18,6 @@ ORG_TWITTER = "@AmeliorateGame"
 ORG_GITHUB  =  "Psylocybin42"
 ORG_KEYBASE = "ameliorategame"
 ORG_OFFICIAL_EMAIL = "AmeliorateGame@gmail.com"
-DOMAIN = "ameliorategame.com"
 
 [[PRINCIPALS]]
 name = "Psylocybin42"
