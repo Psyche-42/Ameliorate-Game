@@ -27,6 +27,9 @@ twitter = "@Psylocybin42"
 github = "Psylocybin42"
 
 
+
+# ----- Ameliorate Token -----
+# ----- Below are the Ameliorate Token(s) for the entire Ameliorate Project -----
 [[CURRENCIES]]
 code = "AMLT"
 issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
@@ -51,6 +54,12 @@ conditions = "There will only be 42,000,000 Ameliorate Tokens in existence."
 image = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
 fixed_number = 42000000
 
+
+
+# ----- Ameliorate Game Assets -----
+# ----- Below are the In-Game Assets (NFTs) for the Ameliorate Game  -----
+
+# ----- Ameliorate Metalic Coins -----
 [[CURRENCIES]]
 code = "PlatinumCoin"
 issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
@@ -98,3 +107,6 @@ desc = "Ameliorate Game Copper Coins"
 conditions = "There will only be 100,000,000,000 Ameliorate Copper Coins in existence."
 image = "https://ameliorategame.files.wordpress.com/2023/07/ameliorate-logo-very-small.png"
 fixed_number = 100000000000
+
+
+# ----- Ameliorate Lands -----
