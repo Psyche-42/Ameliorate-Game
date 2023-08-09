@@ -17,7 +17,7 @@ ORG_DESCRIPTION = "An epic web3 RPG powered by Stellar and taking place in Disco
 ORG_TWITTER = "@AmeliorateGame"
 ORG_GITHUB  =  "Psylocybin42"
 ORG_KEYBASE = "ameliorategame"
-ORG_OFFICIAL_EMAIL = "AmeliorateGame@gmail.com"
+ORG_OFFICIAL_EMAIL = "support@AmeliorateGame.com"
 
 [[PRINCIPALS]]
 name = "Psylocybin42"
