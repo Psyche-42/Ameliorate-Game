@@ -28,8 +28,8 @@ github = "Psylocybin42"
 
 
 
-# ----- Ameliorate Tokens -----
-# ----- Below are the Ameliorate Tokens for the entire Ameliorate Project -----
+# ----- Ameliorate Token -----
+# ----- Below is the Ameliorate Token for the entire Ameliorate Project -----
 [[CURRENCIES]]
 code = "Ameliorate"
 issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
@@ -42,17 +42,6 @@ conditions = "There will only be 42,000,000 Ameliorate Tokens in existence."
 image = "https://ameliorategame.com/img/Ameliorate%20Logo%20-%20128x128.png"
 fixed_number = 42000000
 
-[[CURRENCIES]]
-code = "AGT"
-issuer = "GAI4UZHPC7VSBQ77IMJWVAOPGOJIVCSP2BBI3BX2FBLUPIXVONXIMF5G"
-display_decimals = 2
-status = "live"
-is_asset_anchored = false
-name = "Ameliorate Game Token"
-desc = "An epic web3 RPG powered by Stellar and taking place in Discord and our Web App. Buy, Sell, and exchange items to make yourself powerful.   Acquire, Grow, and Conquer lands to Build an empire."
-conditions = "There will only be 42,000,000,000 Ameliorate Game Tokens in existence."
-image = "https://ameliorategame.com/img/Ameliorate%20Logo%20-%20128x128.png"
-fixed_number = 42000000000
 
 
 
