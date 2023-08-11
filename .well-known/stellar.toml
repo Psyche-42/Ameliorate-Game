@@ -39,7 +39,7 @@ is_asset_anchored = false
 name = "Ameliorate Token"
 desc = "An epic web3 RPG powered by Stellar and taking place in Discord and our Web App. Buy, Sell, and exchange items to make yourself powerful.   Acquire, Grow, and Conquer lands to Build an empire."
 conditions = "There will only be 42,000,000 Ameliorate Tokens in existence."
-image = "ipfs://bafkreib62zqcf3cvamvy3hksak6xdnl2dm5mufktll7ew55t2qpwdwtg5q"
+image = "https://bafkreib62zqcf3cvamvy3hksak6xdnl2dm5mufktll7ew55t2qpwdwtg5q.ipfs.nftstorage.link/"
 fixed_number = 42000000
 
 
